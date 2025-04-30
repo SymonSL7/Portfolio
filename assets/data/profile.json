@@ -1,0 +1,201 @@
+{
+    "nome": "Symon Silva Lima",
+    "titulo": "Estudante de Desenvolvimento",
+    "localidade": {
+      "cidade": "Contagem",
+      "estado": "Minas Gerais",
+      "pais": "Brasil"
+    },
+    "telefone": "(31) 9 9121-4533",
+    "email": "symon.silva.lima@hotmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "nome": "HTML",
+          "logo": "TODO"
+        },
+        {
+          "nome": "CSS",
+          "logo": "TODO"
+        },
+        {
+          "nome": "JavaScript",
+          "logo": "TODO"
+        },
+        {
+            "nome": "TypeScript",
+            "logo": "TODO"
+        },
+        {
+            "nome": "Angular",
+            "logo": "TODO"
+        },
+        {
+            "nome": "Java",
+            "logo": "TODO"
+        },
+        {
+            "nome": "SpringBoot",
+            "logo": "TODO"
+        },
+        {
+            "nome": "NodeJS",
+            "logo": "TODO"
+        },
+        {
+            "nome": "MySql",
+            "logo": "TODO"
+        },
+        {
+            "nome": "Postgress",
+            "logo": "TODO"
+        },
+        {
+            "nome": "SqlServer",
+            "logo": "TODO"
+        },
+        {
+            "nome": "Docker",
+            "logo": "TODO"
+        },
+        {
+            "nome": "GitHub",
+            "logo": "TODO"
+        },
+        {
+            "nome": "Windows",
+            "logo": "TODO"
+        }
+      ],
+      "softSkills": [
+        "Trabalho em Equipe",
+        "Organização",
+        "Comunicação",
+        "Comprometimento com Resultados",
+        "Facilidade com Tarefas Práticas"
+      ]
+    },
+    "idiomas": [
+      {
+        "nome": "Português",
+        "nivel": "Nativo"
+      }
+    ],
+    "educacao": [
+      {
+        "nome": "dio.me",
+        "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
+        "instituicao": "Digital Innovation One (DIO)",
+        "periodo": {
+          "inicio": "2024",
+          "fim": "Atualmente"
+        },
+        "certificados": [
+          {
+            "nome": "Formação Lógica de Programação / DIO",
+            "data": "03/2025",
+            "link": ""
+          },
+          {
+            "nome": "2025 BOOTCAMP - Avanade - Decola Tech 2025 Full Stack Angular & Spring Boot / DIO",
+            "data": "03/2025",
+            "link": ""
+          },
+          {
+            "nome": "BOOTCAMP - GFT - Desenvolvimento Java com IA / DIO",
+            "data": "11/2024",
+            "link": ""
+          },
+          {
+            "nome": "Lógica de Programação com Java Para Iniciantes / AlgaWorks",
+            "data": "11/2024",
+            "link": ""
+          },
+          {
+            "nome": "Banco de Dados e SQL Para Iniciantes / AlgaWorks",
+            "data": "07/2024",
+            "link": ""
+          }
+        ]
+      },
+      {
+        "nome": "Análise e Desenvolvimento de Sistemas",
+        "descricao": "- Lógica de Programação - HTML - CSS - JavaScript - Metodologia Ágil",
+        "instituicao": "PUC MINAS",
+        "periodo": {
+          "inicio": "02/2025",
+          "fim": "Atualmente"
+        }
+      },
+      {
+        "nome": "Técnico Desenvolvimento de Sistemas",
+        "descricao": "- Lógica de Programação - HTML - CSS - JavaScript - C# - Java - Banco de Dados - Aplicação Web - Aplicação Desktop - Aplicação Mobile",
+        "instituicao": "Senai Fatec BH",
+        "periodo": {
+          "inicio": "10/2017",
+          "fim": "02/2019"
+        }
+      }
+     
+    ],
+    "portfolio": [
+      {
+        "nome": "GitHub Symon",
+        "gitHub": "https://www.github.com/SymonSL7",
+        "certificado": ""
+      },
+      {
+        "nome": "Repositórios",
+        "gitHub": "https://www.github.com/SymonSL7?tab=repositories",
+        "certificado": ""
+      },
+      {
+        "nome": "Pokedex com JavaScript",
+        "gitHub": "https://www.github.com/SymonSL7/PokedexJavaScript",
+        "certificado": ""
+      },
+      {
+        "nome": "Clone do BuzzFeed",
+        "gitHub": "https://www.github.com/SymonSL7/projeto-buzzfeed",
+        "certificado": ""
+      }
+    ],
+    "experiencias": [
+      {
+        "nome": "REALOCAÇÃO – PAUSA NA CARREIRA",
+        "descricao": "Trabalho Autônomo.",
+        "instituicao": "Autônomo e Particular",
+        "periodo": {
+          "inicio": "01/03/2022",
+          "fim": "Atualmente"
+        }
+      },
+      {
+        "nome": "Técnico em Suporte de TI",
+        "descricao": "- Suporte ao Usuário - Remoto e Presencial. - Gestão de AD, Windows Server, Backup, Firewall. - Instalação e Resolução de Problemas, Windows, Softwares e Hardwares. - Manutenção de Infraestrutura de Redes. - Inventário e Controle de Equipamentos. - Auxiliar de Projetos de Engenharia de Automação.",
+        "instituicao": "ATMC CONSULTORIA E ENGENHARIA",
+        "periodo": {
+          "inicio": "22/07/2019",
+          "fim": "25/02/2022"
+        }
+      },
+      {
+        "nome": "Técnico em Suporte de TI",
+        "descricao": "- Suporte ao Cliente (Usuário) - Remoto e Presencial (Terceirizado). - Gestão de AD, Windows Server, Backup. - Instalação e Resolução de Problemas, Windows, Softwares e Hardwares. - Suporte a Sites Jurídicos e Configuração de Token. - Manutenção de Infraestrutura de Redes.",
+        "instituicao": "FC INFORMÁTICA",
+        "periodo": {
+          "inicio": "04/01/2019",
+          "fim": "19/07/2019"
+        }
+      },
+      {
+        "nome": "Estagiário de Suporte de TI",
+        "descricao": "- Suporte ao Usuário - Presencial. - Gestão de AD, Windows Server, Backup, Firewall. - Instalação e Resolução de Problemas, Windows, Softwares e Hardwares. - Manutenção de Infraestrutura de Redes. - Inventário e Controle de Equipamentos.",
+        "instituicao": "ATMC CONSULTORIA E ENGENHARIA",
+        "periodo": {
+          "inicio": "23/04/2018",
+          "fim": "03/01/2019"
+        }
+      }
+    ]
+  }
