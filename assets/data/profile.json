@@ -128,24 +128,24 @@
     ],
     "portfolio": [
       {
-        "name": "GitHub Symon",
-        "gitHub": "https://www.github.com/SymonSL7",
-        "certificado": ""
+        "name": "GitHub sobre Symon",
+        "url": "https://www.github.com/SymonSL7",
+        "git": true
       },
       {
-        "name": "Repositórios",
-        "gitHub": "https://www.github.com/SymonSL7?tab=repositories",
-        "certificado": ""
+        "name": "GitHub Repositórios Symon",
+        "url": "https://www.github.com/SymonSL7?tab=repositories",
+        "git": true 
       },
       {
         "name": "Pokedex com JavaScript",
-        "gitHub": "https://www.github.com/SymonSL7/PokedexJavaScript",
-        "certificado": ""
+        "url": "https://www.github.com/SymonSL7/PokedexJavaScript",
+        "git": true
       },
       {
         "name": "Clone do BuzzFeed",
-        "gitHub": "https://www.github.com/SymonSL7/projeto-buzzfeed",
-        "certificado": ""
+        "url": "https://www.github.com/SymonSL7/projeto-buzzfeed",
+        "git": true
       }
     ],
     "experiencias": [
