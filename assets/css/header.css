@@ -96,3 +96,12 @@
         grid-area: informations;
     }
 }
+
+@media (max-width: 360px) {
+    .informations p a {
+        font-size: 0.800rem;
+    }
+    .informations p {
+        font-size: 0.800rem;
+    }
+}
