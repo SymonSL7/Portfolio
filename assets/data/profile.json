@@ -11,59 +11,59 @@
       "hardSkills": [
         {
           "name": "HTML",
-          "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/html.png"
+          "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/mainassets/data/imgs/html.png"
         },
         {
           "name": "CSS",
-          "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/css.png"
+          "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/mainassets/data/imgs/css.png"
         },
         {
           "name": "JavaScript",
-          "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/js.png"
+          "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/mainassets/data/imgs/js.png"
         },
         {
             "name": "TypeScript",
-            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/typescript.png"
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/mainassets/data/imgs/typescript.png"
         },
         {
             "name": "Angular",
-            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/angular.png"
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/mainassets/data/imgs/angular.png"
         },
         {
             "name": "Java",
-            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/java.png"
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/mainassets/data/imgs/java.png"
         },
         {
             "name": "SpringBoot",
-            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/springboot.png"
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/mainassets/data/imgs/springboot.png"
         },
         {
             "name": "NodeJS",
-            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/nodejs.png"
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/mainassets/data/imgs/nodejs.png"
         },
         {
             "name": "MySql",
-            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/mysqlBranco.png"
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/mainassets/data/imgs/mysqlBranco.png"
         },
         {
             "name": "Postgress",
-            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/postgresql.png"
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/mainassets/data/imgs/postgresql.png"
         },
         {
             "name": "SqlServer",
-            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/sqlserver.png"
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/mainassets/data/imgs/sqlserver.png"
         },
         {
             "name": "Docker",
-            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/docker.png"
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/mainassets/data/imgs/docker.png"
         },
         {
             "name": "GitHub",
-            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/github.png"
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/mainassets/data/imgs/github.png"
         },
         {
             "name": "Windows",
-            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/windows.png"
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/mainassets/data/imgs/windows.png"
         }
       ],
       "softSkills": [
