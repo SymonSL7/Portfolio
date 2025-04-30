@@ -74,11 +74,8 @@
         "Facilidade com Tarefas Práticas"
       ]
     },
-    "idiomas": [
-      {
-        "nome": "Português",
-        "nivel": "Nativo"
-      }
+    "languages": [
+      "Português BR"
     ],
     "cursos": [
       {
