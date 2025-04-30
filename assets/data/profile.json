@@ -77,53 +77,58 @@
     "languages": [
       "Português BR"
     ],
-    "cursos": [
+    "course": [
 
           {
             "name": "Formação Lógica de Programação / DIO",
-            "data": "03/2025",
-            "link": ""
+            "period": "03/2025"
+
           },
           {
             "name": "2025 BOOTCAMP - Avanade - Decola Tech 2025 Full Stack Angular & Spring Boot / DIO",
-            "data": "03/2025",
-            "link": ""
+            "period": "03/2025",
+
           },
           {
             "name": "BOOTCAMP - GFT - Desenvolvimento Java com IA / DIO",
-            "data": "11/2024",
-            "link": ""
+            "period": "11/2024"
+    
           },
           {
             "name": "Lógica de Programação com Java Para Iniciantes / AlgaWorks",
-            "data": "11/2024",
-            "link": ""
+            "period": "11/2024"
           },
           {
             "name": "Banco de Dados e SQL Para Iniciantes / AlgaWorks",
-            "data": "07/2024",
-            "link": ""
+            "period": "07/2024"
           }
 
     ],
-    "formacao": [
+    "academic": [
       {
-        "name": "Análise e Desenvolvimento de Sistemas",
-        "descricao": "- Lógica de Programação - HTML - CSS - JavaScript - Metodologia Ágil",
-        "instituicao": "PUC MINAS",
-        "periodo": {
-          "inicio": "02/2025",
-          "fim": "Atualmente"
-        }
+        "name": "Análise e Desenvolvimento de Sistemas / PUC MINAS",
+        "period": "02/2025 - Atual",
+        "description": [
+          "- Lógica de Programação",
+          "- HTML", 
+          "- CSS",
+          "- JavaScript", 
+          "- Metodologia Ágil"]
       },
       {
-        "name": "Técnico Desenvolvimento de Sistemas",
-        "descricao": "- Lógica de Programação - HTML - CSS - JavaScript - C# - Java - Banco de Dados - Aplicação Web - Aplicação Desktop - Aplicação Mobile",
-        "instituicao": "Senai Fatec BH",
-        "periodo": {
-          "inicio": "10/2017",
-          "fim": "02/2019"
-        }
+        "name": "Técnico Desenvolvimento de Sistemas / Senai Fatec BH",
+        "period": "10/2017 - 02/2019",
+        "description": [
+          "- Lógica de Programação",
+          "- HTML",
+          "- CSS",
+          "- JavaScript",
+          "- C#",
+          "- Java",
+          "- Banco de Dados",
+          "- Aplicação Web",
+          "- Aplicação Desktop",
+          "- Aplicação Mobile"]
       }
     ],
     "portfolio": [
