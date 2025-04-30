@@ -32,6 +32,10 @@ function updateSoftSkills(profileData) {
 
 };
 
+function updateHardSkills(profileData) {
+    
+}
+
 (async () => {
     
     const profileData = await fetchProfileData();
