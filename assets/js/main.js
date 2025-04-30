@@ -67,7 +67,7 @@ function updateProfessionalExperience(profileData) {
     const professionalExperience = document.getElementById('profile.professionalExperience');
 
     professionalExperience.innerHTML = profileData.professionalExperience.map(experience => {
-        
+
         let descriptionContent;
         
         if (typeof experience.description === 'object' && experience.description !== null) {
@@ -88,6 +88,40 @@ function updateProfessionalExperience(profileData) {
     }).join('');
 }
 
+function updateCourse(profileData) {
+
+    const course = document.getElementById('profile.courses');
+
+    course.innerHTML = profileData.course.map(courses => {
+        return `
+            <li>
+                <h3 class="title">${courses.name}</h3>
+                <span class="period">${courses.period}</span>
+            </li>
+        `
+    }).join('')
+
+}
+
+function updateAcademic(profileData) {
+
+    const academic = document.getElementById('profile.academic');
+
+    academic.innerHTML = profileData.academic.map(academics => {
+        return `
+            <li>
+                <h3 class="title">${academics.name}</h3>
+                <span class="period">${academics.period}</span>
+                <p>
+                    ${academics.description}
+                </p>
+            </li>
+
+        `
+    }).join('')
+
+}
+
 (async () => {
     
     const profileData = await fetchProfileData();
@@ -97,5 +131,7 @@ function updateProfessionalExperience(profileData) {
     updateLanguages(profileData);
     updatePortfolio(profileData);
     updateProfessionalExperience(profileData);
+    updateCourse(profileData);
+    updateAcademic(profileData);
 
 })();
