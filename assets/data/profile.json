@@ -1,12 +1,9 @@
 {
-    "nome": "Symon Silva Lima",
-    "titulo": "Estudante de Desenvolvimento",
-    "localidade": {
-      "cidade": "Contagem",
-      "estado": "Minas Gerais",
-      "pais": "Brasil"
-    },
-    "telefone": "(31) 9 9121-4533",
+    "name": "Symon Silva Lima",
+    "photo": "https://avatars.githubusercontent.com/u/175975678?v=4",
+    "job": "Estudante de Desenvolvimento",
+    "location": "Contagem - MG - BR",
+    "PHONE": "(31) 9 9121-4533",
     "email": "symon.silva.lima@hotmail.com",
     "skills": {
       "hardSkills": [
