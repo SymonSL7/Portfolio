@@ -11,59 +11,59 @@
       "hardSkills": [
         {
           "nome": "HTML",
-          "logo": "TODO"
+          "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/html.png"
         },
         {
           "nome": "CSS",
-          "logo": "TODO"
+          "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/css.png"
         },
         {
           "nome": "JavaScript",
-          "logo": "TODO"
+          "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/js.png"
         },
         {
             "nome": "TypeScript",
-            "logo": "TODO"
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/typescript.png"
         },
         {
             "nome": "Angular",
-            "logo": "TODO"
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/angular.png"
         },
         {
             "nome": "Java",
-            "logo": "TODO"
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/java.png"
         },
         {
             "nome": "SpringBoot",
-            "logo": "TODO"
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/springboot.png"
         },
         {
             "nome": "NodeJS",
-            "logo": "TODO"
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/nodejs.png"
         },
         {
             "nome": "MySql",
-            "logo": "TODO"
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/mysql.png"
         },
         {
             "nome": "Postgress",
-            "logo": "TODO"
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/postgresql.png"
         },
         {
             "nome": "SqlServer",
-            "logo": "TODO"
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/sqlserver.png"
         },
         {
             "nome": "Docker",
-            "logo": "TODO"
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/docker.png"
         },
         {
             "nome": "GitHub",
-            "logo": "TODO"
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/github.png"
         },
         {
             "nome": "Windows",
-            "logo": "TODO"
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/windows.png"
         }
       ],
       "softSkills": [
