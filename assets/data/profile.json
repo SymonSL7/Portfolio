@@ -150,40 +150,40 @@
     ],
     "experiencias": [
       {
-        "name": "REALOCAÇÃO – PAUSA NA CARREIRA",
-        "descricao": "Trabalho Autônomo.",
-        "instituicao": "Autônomo e Particular",
-        "periodo": {
-          "inicio": "01/03/2022",
-          "fim": "Atualmente"
-        }
+        "name": "REALOCAÇÃO – PAUSA NA CARREIRA / Autônomo e Particular",
+        "period": "01/03/2022 - Atual",
+        "description": ["Trabalho Autônomo."]
       },
       {
-        "name": "Técnico em Suporte de TI",
-        "descricao": "- Suporte ao Usuário - Remoto e Presencial. - Gestão de AD, Windows Server, Backup, Firewall. - Instalação e Resolução de Problemas, Windows, Softwares e Hardwares. - Manutenção de Infraestrutura de Redes. - Inventário e Controle de Equipamentos. - Auxiliar de Projetos de Engenharia de Automação.",
-        "instituicao": "ATMC CONSULTORIA E ENGENHARIA",
-        "periodo": {
-          "inicio": "22/07/2019",
-          "fim": "25/02/2022"
-        }
+        "name": "Técnico em Suporte de TI / ATMC CONSULTORIA E ENGENHARIA",
+        "period": "22/07/2019 - 25/02/2022",
+        "description": [
+         "- Suporte ao Usuário - Remoto e Presencial.", 
+         "- Gestão de AD. Windows Server, Backup, Firewall.",
+         "- Instalação e Resolução de Problemas, Windows, Softwares e Hardwares.", 
+         "- Manutenção de Infraestrutura de Redes. - Inventário e Controle de Equipamentos.",
+         "- Auxiliar de Projetos de Engenharia de Automação."]
       },
       {
-        "name": "Técnico em Suporte de TI",
-        "descricao": "- Suporte ao Cliente (Usuário) - Remoto e Presencial (Terceirizado). - Gestão de AD, Windows Server, Backup. - Instalação e Resolução de Problemas, Windows, Softwares e Hardwares. - Suporte a Sites Jurídicos e Configuração de Token. - Manutenção de Infraestrutura de Redes.",
-        "instituicao": "FC INFORMÁTICA",
-        "periodo": {
-          "inicio": "04/01/2019",
-          "fim": "19/07/2019"
-        }
+        "name": "Técnico em Suporte de TI / FC INFORMÁTICA",
+        "period": "04/01/2019 - 19/07/2019",
+        "description": [
+          "- Suporte ao Cliente (Usuário) - Remoto e Presencial (Terceirizado).",
+          "- Gestão de AD, Windows Server, Backup.",
+          "- Instalação e Resolução de Problemas, Windows, Softwares e Hardwares.",
+          "- Suporte a Sites Jurídicos e Configuração de Token.", 
+          "- Manutenção de Infraestrutura de Redes."
+      ]
       },
       {
-        "name": "Estagiário de Suporte de TI",
-        "descricao": "- Suporte ao Usuário - Presencial. - Gestão de AD, Windows Server, Backup, Firewall. - Instalação e Resolução de Problemas, Windows, Softwares e Hardwares. - Manutenção de Infraestrutura de Redes. - Inventário e Controle de Equipamentos.",
-        "instituicao": "ATMC CONSULTORIA E ENGENHARIA",
-        "periodo": {
-          "inicio": "23/04/2018",
-          "fim": "03/01/2019"
-        }
+        "name": "Estagiário de Suporte de TI / ATMC CONSULTORIA E ENGENHARIA",
+        "period": "23/04/2018 - 03/01/2019",
+        "description": [
+          "- Suporte ao Usuário - Presencial.",
+          "- Gestão de AD, Windows Server, Backup, Firewall.",
+          "- Instalação e Resolução de Problemas, Windows, Softwares e Hardwares.",
+          "- Manutenção de Infraestrutura de Redes. - Inventário e Controle de Equipamentos."
+      ]
       }
     ]
   }
