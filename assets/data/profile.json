@@ -106,22 +106,30 @@
     ],
     "academic": [
       {
-        "name": "Análise e Desenvolvimento de Sistemas",
-        "descricao": "- Lógica de Programação - HTML - CSS - JavaScript - Metodologia Ágil",
-        "instituicao": "PUC MINAS",
-        "periodo": {
-          "inicio": "02/2025",
-          "fim": "Atualmente"
-        }
+        "name": "Análise e Desenvolvimento de Sistemas / PUC MINAS",
+        "period": "02/2025 - Atual",
+        "description": [
+          "- Lógica de Programação",
+          "- HTML", 
+          "- CSS",
+          "- JavaScript", 
+          "- Metodologia Ágil"
+      ]
       },
       {
-        "name": "Técnico Desenvolvimento de Sistemas",
-        "descricao": "- Lógica de Programação - HTML - CSS - JavaScript - C# - Java - Banco de Dados - Aplicação Web - Aplicação Desktop - Aplicação Mobile",
-        "instituicao": "Senai Fatec BH",
-        "periodo": {
-          "inicio": "10/2017",
-          "fim": "02/2019"
-        }
+        "name": "Técnico Desenvolvimento de Sistemas / Senai Fatec BH",
+        "period": "10/2017 - 02/2019",
+        "descricao": ["- Lógica de Programação",
+          "- HTML",
+          "- CSS",
+          "- JavaScript",
+          "- C#",
+          "- Java",
+          "- Banco de Dados",
+          "- Aplicação Web",
+          "- Aplicação Desktop",
+          "- Aplicação Mobile"
+      ]
       }
     ],
     "portfolio": [
