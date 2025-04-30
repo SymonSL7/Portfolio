@@ -1,7 +1,7 @@
 
 async function fetchProfileData() {
     
-    const url = 'https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/mainassets/data/profile.json';
+    const url = 'https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/profile.json';
 
     const fetching = await fetch(url);
 
