@@ -108,13 +108,22 @@ function updateAcademic(profileData) {
     const academic = document.getElementById('profile.academic');
 
     academic.innerHTML = profileData.academic.map(academics => {
+
+        let descriptionContent;
+
+        if(typeof academics.description === 'object' && academics.description !== null){
+            descriptionContent = Object.entries(academics.description)
+            .map(([key,value]) => `<p>${value}</p>`)
+            .join('');
+        } else {
+            descriptionContent = `<p>${academics.description || ''}</p>`;
+        }
+
         return `
             <li>
                 <h3 class="title">${academics.name}</h3>
                 <span class="period">${academics.period}</span>
-                <p>
-                    ${academics.description}
-                </p>
+                ${descriptionContent}
             </li>
 
         `
