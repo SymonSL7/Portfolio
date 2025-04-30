@@ -81,7 +81,7 @@
         "nivel": "Nativo"
       }
     ],
-    "educacao": [
+    "cursos": [
       {
         "nome": "dio.me",
         "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
@@ -117,7 +117,9 @@
             "link": ""
           }
         ]
-      },
+      }
+    ],
+    "formacao": [
       {
         "nome": "Análise e Desenvolvimento de Sistemas",
         "descricao": "- Lógica de Programação - HTML - CSS - JavaScript - Metodologia Ágil",
@@ -136,7 +138,6 @@
           "fim": "02/2019"
         }
       }
-     
     ],
     "portfolio": [
       {
