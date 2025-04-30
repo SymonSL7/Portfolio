@@ -78,46 +78,37 @@
       "Português BR"
     ],
     "cursos": [
-      {
-        "nome": "dio.me",
-        "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
-        "instituicao": "Digital Innovation One (DIO)",
-        "periodo": {
-          "inicio": "2024",
-          "fim": "Atualmente"
-        },
-        "certificados": [
+
           {
-            "nome": "Formação Lógica de Programação / DIO",
+            "name": "Formação Lógica de Programação / DIO",
             "data": "03/2025",
             "link": ""
           },
           {
-            "nome": "2025 BOOTCAMP - Avanade - Decola Tech 2025 Full Stack Angular & Spring Boot / DIO",
+            "name": "2025 BOOTCAMP - Avanade - Decola Tech 2025 Full Stack Angular & Spring Boot / DIO",
             "data": "03/2025",
             "link": ""
           },
           {
-            "nome": "BOOTCAMP - GFT - Desenvolvimento Java com IA / DIO",
+            "name": "BOOTCAMP - GFT - Desenvolvimento Java com IA / DIO",
             "data": "11/2024",
             "link": ""
           },
           {
-            "nome": "Lógica de Programação com Java Para Iniciantes / AlgaWorks",
+            "name": "Lógica de Programação com Java Para Iniciantes / AlgaWorks",
             "data": "11/2024",
             "link": ""
           },
           {
-            "nome": "Banco de Dados e SQL Para Iniciantes / AlgaWorks",
+            "name": "Banco de Dados e SQL Para Iniciantes / AlgaWorks",
             "data": "07/2024",
             "link": ""
           }
-        ]
-      }
+
     ],
     "formacao": [
       {
-        "nome": "Análise e Desenvolvimento de Sistemas",
+        "name": "Análise e Desenvolvimento de Sistemas",
         "descricao": "- Lógica de Programação - HTML - CSS - JavaScript - Metodologia Ágil",
         "instituicao": "PUC MINAS",
         "periodo": {
@@ -126,7 +117,7 @@
         }
       },
       {
-        "nome": "Técnico Desenvolvimento de Sistemas",
+        "name": "Técnico Desenvolvimento de Sistemas",
         "descricao": "- Lógica de Programação - HTML - CSS - JavaScript - C# - Java - Banco de Dados - Aplicação Web - Aplicação Desktop - Aplicação Mobile",
         "instituicao": "Senai Fatec BH",
         "periodo": {
@@ -137,29 +128,29 @@
     ],
     "portfolio": [
       {
-        "nome": "GitHub Symon",
+        "name": "GitHub Symon",
         "gitHub": "https://www.github.com/SymonSL7",
         "certificado": ""
       },
       {
-        "nome": "Repositórios",
+        "name": "Repositórios",
         "gitHub": "https://www.github.com/SymonSL7?tab=repositories",
         "certificado": ""
       },
       {
-        "nome": "Pokedex com JavaScript",
+        "name": "Pokedex com JavaScript",
         "gitHub": "https://www.github.com/SymonSL7/PokedexJavaScript",
         "certificado": ""
       },
       {
-        "nome": "Clone do BuzzFeed",
+        "name": "Clone do BuzzFeed",
         "gitHub": "https://www.github.com/SymonSL7/projeto-buzzfeed",
         "certificado": ""
       }
     ],
     "experiencias": [
       {
-        "nome": "REALOCAÇÃO – PAUSA NA CARREIRA",
+        "name": "REALOCAÇÃO – PAUSA NA CARREIRA",
         "descricao": "Trabalho Autônomo.",
         "instituicao": "Autônomo e Particular",
         "periodo": {
@@ -168,7 +159,7 @@
         }
       },
       {
-        "nome": "Técnico em Suporte de TI",
+        "name": "Técnico em Suporte de TI",
         "descricao": "- Suporte ao Usuário - Remoto e Presencial. - Gestão de AD, Windows Server, Backup, Firewall. - Instalação e Resolução de Problemas, Windows, Softwares e Hardwares. - Manutenção de Infraestrutura de Redes. - Inventário e Controle de Equipamentos. - Auxiliar de Projetos de Engenharia de Automação.",
         "instituicao": "ATMC CONSULTORIA E ENGENHARIA",
         "periodo": {
@@ -177,7 +168,7 @@
         }
       },
       {
-        "nome": "Técnico em Suporte de TI",
+        "name": "Técnico em Suporte de TI",
         "descricao": "- Suporte ao Cliente (Usuário) - Remoto e Presencial (Terceirizado). - Gestão de AD, Windows Server, Backup. - Instalação e Resolução de Problemas, Windows, Softwares e Hardwares. - Suporte a Sites Jurídicos e Configuração de Token. - Manutenção de Infraestrutura de Redes.",
         "instituicao": "FC INFORMÁTICA",
         "periodo": {
@@ -186,7 +177,7 @@
         }
       },
       {
-        "nome": "Estagiário de Suporte de TI",
+        "name": "Estagiário de Suporte de TI",
         "descricao": "- Suporte ao Usuário - Presencial. - Gestão de AD, Windows Server, Backup, Firewall. - Instalação e Resolução de Problemas, Windows, Softwares e Hardwares. - Manutenção de Infraestrutura de Redes. - Inventário e Controle de Equipamentos.",
         "instituicao": "ATMC CONSULTORIA E ENGENHARIA",
         "periodo": {
