@@ -130,22 +130,22 @@
       {
         "name": "GitHub sobre Symon",
         "url": "https://www.github.com/SymonSL7",
-        "git": true
+        "github": true
       },
       {
         "name": "GitHub Repositórios Symon",
         "url": "https://www.github.com/SymonSL7?tab=repositories",
-        "git": true 
+        "github": true 
       },
       {
         "name": "Pokedex com JavaScript",
         "url": "https://www.github.com/SymonSL7/PokedexJavaScript",
-        "git": true
+        "github": true
       },
       {
         "name": "Clone do BuzzFeed",
         "url": "https://www.github.com/SymonSL7/projeto-buzzfeed",
-        "git": true
+        "github": true
       }
     ],
     "experiencias": [
