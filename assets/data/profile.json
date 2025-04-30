@@ -81,28 +81,26 @@
 
           {
             "name": "Formação Lógica de Programação / DIO",
-            "period": "03/2025",
-            "link": ""
+            "period": "03/2025"
+
           },
           {
             "name": "2025 BOOTCAMP - Avanade - Decola Tech 2025 Full Stack Angular & Spring Boot / DIO",
             "period": "03/2025",
-            "link": ""
+
           },
           {
             "name": "BOOTCAMP - GFT - Desenvolvimento Java com IA / DIO",
-            "period": "11/2024",
-            "link": ""
+            "period": "11/2024"
+    
           },
           {
             "name": "Lógica de Programação com Java Para Iniciantes / AlgaWorks",
-            "period": "11/2024",
-            "link": ""
+            "period": "11/2024"
           },
           {
             "name": "Banco de Dados e SQL Para Iniciantes / AlgaWorks",
-            "period": "07/2024",
-            "link": ""
+            "period": "07/2024"
           }
 
     ],
