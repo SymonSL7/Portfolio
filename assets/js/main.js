@@ -3,7 +3,7 @@ function updateProfileInfo(profileData) {
 
     const photo = document.getElementById('profile.photo')
     photo.src = profileData.photo
-    phhoto.alt = profileData.name
+    photo.alt = profileData.name
 
     const name = document.getElementById('profile.name')
     name.innerText = profileData.name
@@ -16,7 +16,7 @@ function updateProfileInfo(profileData) {
 
     const phone = document.getElementById('profile.phone')
     phone.innerText = profileData.phone
-    phone.href = `https://wa.me/{profileData.phone}`
+    phone.href = `https://wa.me/{profileData.phoneRef}`
 
     const email = document.getElementById('profile.email')
     email.innerText = profileData.email
