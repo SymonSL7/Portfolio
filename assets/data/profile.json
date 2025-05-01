@@ -42,18 +42,6 @@
             "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/nodejs.png"
         },
         {
-            "name": "MySql",
-            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/mysqlBranco.png"
-        },
-        {
-            "name": "Postgress",
-            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/postgresql.png"
-        },
-        {
-            "name": "SqlServer",
-            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/sqlserver.png"
-        },
-        {
             "name": "Docker",
             "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/docker.png"
         },
