@@ -50,6 +50,12 @@ a:hover {
     transform: rotate(180deg);
 }
 
+.badge-container {
+    display: flex;
+    justify-content: center;
+    margin: 2rem 0;
+}
+
 @media (min-width: 768px) { 
     .main {
         max-width: 1024px;
