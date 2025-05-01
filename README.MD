@@ -7,7 +7,8 @@
 ###
 
 <h1>Descrição de Projeto:</h1>
-<p> Projeto de um Portfólio Digital(Currículo)  Desenvolvido com HTML, CSS e JavaScript, segue o link do GitHubPages https://symonsl7.github.io/Portfolio/ </p>
+<p> Projeto de um Portfólio Digital(Currículo)  Desenvolvido com HTML, CSS e JavaScript </p>
+<p> Link para o GitHub Pages segue o link do GitHubPages https://symonsl7.github.io/Portfolio/ </p>
 
 ###
 
