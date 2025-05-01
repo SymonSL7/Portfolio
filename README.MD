@@ -7,7 +7,7 @@
 ###
 
 <h1>Descrição de Projeto:</h1>
-<p> Criando um portfólio profissional com dinâmico com HTML, CSS e JavasCRIPT</p>
+<p> Projeto de um Portfólio digital Desenvolvido com HTML, CSS e JavaScript, segue o link do GitHubPages https://symonsl7.github.io/Portfolio/ </p>
 
 ###
 
@@ -24,6 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
+
 </div>
 
 ###
@@ -34,10 +35,10 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/symonsilvalima/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/srcassets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:symon.silva.lima@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/srcassets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
 
