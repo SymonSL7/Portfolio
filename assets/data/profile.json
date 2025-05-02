@@ -67,6 +67,11 @@
     "course": [
 
           {
+            "name": "Formação JavaScript Developer / DIO",
+            "period": "05/2025"
+
+          },
+          {
             "name": "Formação Lógica de Programação / DIO",
             "period": "03/2025"
 
