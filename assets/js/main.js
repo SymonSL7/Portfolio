@@ -131,6 +131,7 @@ function updateAcademic(profileData) {
 
 }
 
+
 (async () => {
     
     const profileData = await fetchProfileData();
