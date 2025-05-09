@@ -29,6 +29,10 @@
             "name": "Angular",
             "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/angular.png"
         },
+                {
+            "name": "React",
+            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/React.png"
+        },
         {
             "name": "Java",
             "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/java.png"
