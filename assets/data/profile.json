@@ -71,6 +71,11 @@
     "course": [
 
           {
+            "name": "Formação PHP Experience / DIO",
+            "period": "Cursando..."
+
+          },
+          {
             "name": "Formação TypeScript Fullstack Developer / DIO",
             "period": "05/2025"
 
