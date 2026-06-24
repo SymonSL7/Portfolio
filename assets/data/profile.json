@@ -33,10 +33,6 @@
             "name": ".NET",
             "logo": "assets/data/imgs/NETBranco.png"
         },
-                {
-            "name": "SQLite",
-            "logo": "assets/data/imgs/sqlite.png"
-        },
         {
             "name": "React",
             "logo": "assets/data/imgs/react.png"
@@ -44,6 +40,10 @@
         {
             "name": "Node.js",
             "logo": "assets/data/imgs/nodejs.png"
+        },
+        {
+            "name": "SQLite",
+            "logo": "assets/data/imgs/sqlite.png"
         },
         {
             "name": "GitHub",
