@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Symon Silva Lima, tenho 27 anos, sou formado em Técnico em Desenvolvimento de Sistemas pelo Senai Fatec e atualmente estou cursando o superior em Análise e Desenvolvimento de Sistemas na PUC Minas.</p>
+<p align="left">Meu nome é Symon Silva Lima, tenho 28 anos, sou formado em Técnico em Desenvolvimento de Sistemas pelo Senai Fatec e atualmente estou cursando o superior em Análise e Desenvolvimento de Sistemas na PUC Minas.</p>
 
 ###
 

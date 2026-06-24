@@ -29,144 +29,163 @@
 </head>
 
 <body>
-    <main class="main bento-container">
-
-        <header class="header card profile-card">
-
-            <img src="assets/img/my-photo.png" alt="Foto de Perfil" class="photo" id="profile.photo">
-
-            <h1 class="title">
-                Olá, <br>eu sou o <span id="profile.name">Carregando..</span>
-            </h1>
-
-            <div class="informations">
-                <p class="job">
-                    <a href="" target="_blank" rel="noopener" id="profile.job">
-                    Carregando...
-                    </a>
-                </p>
-                <p class="location" id="profile.location">Carregando...</p>
-                <p class="phone">
-                    <a href="" target="_blank" rel="noopener" id="profile.phone">Carregando...</a>
-                </p>
-
-                <p class="email">
-                    <a href="" target="_blank" rel="noopener" id="profile.email">Carregando...</a>
-                </p>
-            </div>
-
-        </header>
-
-        <section class="card skills-card">
-            <h2 class="card-title">&gt; Habilidades_</h2>
-            <div class="content">
-
-                <div class="skills">
-
-                    <section class="tools">
-                        <h3>Habilidades Profissionais:</h3>
-                        <ul id="profile.skills.hardSkills">
-
-                            <li>
-                                <img src="assets/img/my-photo.png" alt="Carregando..." title="Carregando...">
-                            </li>
+    <div class="ide-container">
 
 
-                        </ul>
-                    </section>
-    
-                    <section class="personal">
-                        <h3>Habilidades Pessoais:</h3>
-                        <ul id="profile.skills.softSkills">
-                            <li>Carregando...</li>
-                            <li>Carregando...</li>
-                            <li>Carregando...</li>
-                        </ul>
-                    </section>
+        <nav class="activity-bar">
+            <div class="activity-icon active" title="Explorer">📂</div>
+            <div class="activity-icon" title="Search">🔍</div>
+            <div class="activity-icon" title="Source Control">🌿</div>
+            <div class="activity-icon bottom" title="Settings">⚙️</div>
+        </nav>
 
+
+        <aside class="sidebar">
+            <div class="sidebar-title">EXPLORER</div>
+            <div class="sidebar-folder">PORTFOLIO</div>
+            <ul class="file-list">
+                <li class="file-item active" data-target="profile-card">
+                    <span class="file-icon html">&lt;&gt;</span> index.html
+                </li>
+                <li class="file-item" data-target="skills-card">
+                    <span class="file-icon json">{}</span> skills.json
+                </li>
+                <li class="file-item" data-target="portfolio-card">
+                    <span class="file-icon ts">TS</span> projects.ts
+                </li>
+                <li class="file-item" data-target="experience-card">
+                    <span class="file-icon ts">TS</span> experience.ts
+                </li>
+                <li class="file-item" data-target="academic-card">
+                    <span class="file-icon md">M↓</span> education.md
+                </li>
+                <li class="file-item" data-target="courses-card">
+                    <span class="file-icon md">M↓</span> courses.md
+                </li>
+                <li class="file-item" data-target="languages-card">
+                    <span class="file-icon json">{}</span> languages.json
+                </li>
+            </ul>
+        </aside>
+
+        <!-- Main Editor -->
+        <main class="editor-area">
+
+            <div class="editor-tabs">
+                <div class="tab active" id="active-tab">
+                    <span class="file-icon html" id="active-tab-icon">&lt;&gt;</span> <span
+                        id="active-tab-name">index.html</span>
                 </div>
-
             </div>
 
-        </section>
+            <div class="editor-content">
 
-        <section class="card languages-card">
-            <h2 class="card-title">&gt; Idiomas_</h2>
-            <div class="content">
-                <ul class="languages" id="profile.languages">
-                    <li>Carregando...</li>
-                </ul>
-            </div>
-
-        </section>
-
-        <section class="card courses-card">
-            <h2 class="card-title">&gt; Cursos_</h2>
-            <div class="content">
-                <ul class="course" id="profile.courses">
-
-                    <li>
-                        <h3 class="title">Carregando...</h3>
-                        <span class="period">Carregando..</span>
-                    </li>
-
-                </ul>
-            </div>
-
-        </section>
-
-        <section class="card academic-card">
-            <h2 class="card-title">&gt; Formação_Acadêmica_</h2>
-            <div class="content">
-                <ul class="academic" id="profile.academic">
-
-                    <li>
-                        <h3 class="title">Carregando...</h3>
-                        <span class="period">Carregando...</span>
-                        <p>
-                            - Carregando...
+                <header class="file-content profile-card active" id="profile-card">
+                    <img src="assets/img/my-photo.png" alt="Foto de Perfil" class="photo" id="profile.photo">
+                    <h1 class="title">Olá, <br>eu sou o <span id="profile.name">Carregando..</span></h1>
+                    <div class="informations">
+                        <p class="job"><a href="" target="_blank" rel="noopener" id="profile.job">Carregando...</a></p>
+                        <p class="location" id="profile.location">Carregando...</p>
+                        <p class="phone"><a href="" target="_blank" rel="noopener" id="profile.phone">Carregando...</a>
                         </p>
-                    </li>
-
-                </ul>
-            </div>
-
-        </section>
-
-        <section class="card portfolio-card">
-            <h2 class="card-title">&gt; Projetos_</h2>
-            <div class="content">
-                <ul class="portfolio" id="profile.portfolio">
-
-                </ul>
-            </div>
-
-        </section>
-
-
-        <section class="card experience-card">
-            <h2 class="card-title">&gt; Experiência_Profissional_</h2>
-            <div class="content">
-                <ul class="experience" id="profile.professionalExperience">
-
-                    <li>
-                        <h3 class="title">Carregando...</h3>
-                        <span class="period" >Carregando...</span>
-                        <p id="profile.professionalExperience.description" >
-.                           - Carregando...
+                        <p class="email"><a href="" target="_blank" rel="noopener" id="profile.email">Carregando...</a>
                         </p>
-                    </li>
-                    
-                </ul>
+                    </div>
+                </header>
+
+                <section class="file-content skills-card" id="skills-card">
+                    <h2 class="card-title">&gt; Habilidades_</h2>
+                    <div class="content">
+                        <div class="skills">
+                            <section class="tools">
+                                <h3>Habilidades Profissionais:</h3>
+                                <ul id="profile.skills.hardSkills">
+                                    <li><img src="assets/img/my-photo.png" alt="Carregando..." title="Carregando...">
+                                    </li>
+                                </ul>
+                            </section>
+                            <section class="personal">
+                                <h3>Habilidades Pessoais:</h3>
+                                <ul id="profile.skills.softSkills">
+                                    <li>Carregando...</li>
+                                </ul>
+                            </section>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="file-content languages-card" id="languages-card">
+                    <h2 class="card-title">&gt; Idiomas_</h2>
+                    <div class="content">
+                        <ul class="languages" id="profile.languages">
+                            <li>Carregando...</li>
+                        </ul>
+                    </div>
+                </section>
+
+                <section class="file-content courses-card" id="courses-card">
+                    <h2 class="card-title">&gt; Cursos_</h2>
+                    <div class="content">
+                        <ul class="course" id="profile.courses">
+                            <li>
+                                <h3 class="title">Carregando...</h3><span class="period">Carregando..</span>
+                            </li>
+                        </ul>
+                    </div>
+                </section>
+
+                <section class="file-content academic-card" id="academic-card">
+                    <h2 class="card-title">&gt; Formação_Acadêmica_</h2>
+                    <div class="content">
+                        <ul class="academic" id="profile.academic">
+                            <li>
+                                <h3 class="title">Carregando...</h3><span class="period">Carregando...</span>
+                                <p>- Carregando...</p>
+                            </li>
+                        </ul>
+                    </div>
+                </section>
+
+                <section class="file-content portfolio-card" id="portfolio-card">
+                    <h2 class="card-title">&gt; Projetos_</h2>
+                    <div class="content">
+                        <ul class="portfolio" id="profile.portfolio">
+                        </ul>
+                    </div>
+                </section>
+
+                <section class="file-content experience-card" id="experience-card">
+                    <h2 class="card-title">&gt; Experiência_Profissional_</h2>
+                    <div class="content">
+                        <ul class="experience" id="profile.professionalExperience">
+                            <li>
+                                <h3 class="title">Carregando...</h3><span class="period">Carregando...</span>
+                                <p id="profile.professionalExperience.description">- Carregando...</p>
+                            </li>
+                        </ul>
+                    </div>
+                </section>
+
             </div>
+        </main>
+    </div>
 
-        </section>
+    <footer class="status-bar">
+        <div class="status-left">
+            <span class="status-item">🌿 main*</span>
+            <span class="status-item">❌ 0 ⚠️ 0</span>
+        </div>
+        
+        <div class="status-center">
+            <img src="https://visitor-badge.laobi.icu/badge?page_id=SymonSL7.Portfolio" alt="Visitas" class="visitor-badge" style="height: 18px; display: block; filter: saturate(0) brightness(1.5);">
+        </div>
 
-        <section class="badge-container">
-            <img src="https://visitor-badge.laobi.icu/badge?page_id=SymonSL7.Portfolio" alt="Visitas" class="visitor-badge">
-        </section>
-
-    </main>
+        <div class="status-right">
+            <span class="status-item">Ln 1, Col 1</span>
+            <span class="status-item">UTF-8</span>
+            <span class="status-item">Prettier</span>
+        </div>
+    </footer>
 
 
     <script src="assets/js/api.js"></script>

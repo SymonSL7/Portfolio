@@ -131,6 +131,35 @@ function updateAcademic(profileData) {
 
 }
 
+function setupIdeTabs() {
+    const fileItems = document.querySelectorAll('.file-item');
+    const fileContents = document.querySelectorAll('.file-content');
+    const tabName = document.getElementById('active-tab-name');
+    const tabIcon = document.getElementById('active-tab-icon');
+
+    fileItems.forEach(item => {
+        item.addEventListener('click', () => {
+            fileItems.forEach(f => f.classList.remove('active'));
+            item.classList.add('active');
+
+            const targetId = item.getAttribute('data-target');
+
+            fileContents.forEach(content => content.classList.remove('active'));
+            document.getElementById(targetId).classList.add('active');
+
+            const iconSpan = item.querySelector('.file-icon');
+            let rawText = item.innerText.replace(iconSpan.innerText, '').trim();
+            tabName.innerText = rawText;
+            
+            tabIcon.className = iconSpan.className;
+            tabIcon.innerText = iconSpan.innerText;
+
+            if (window.innerWidth <= 768) {
+                document.querySelector('.editor-area').scrollIntoView({ behavior: 'smooth' });
+            }
+        });
+    });
+}
 
 (async () => {
 
@@ -143,5 +172,7 @@ function updateAcademic(profileData) {
     updateProfessionalExperience(profileData);
     updateCourse(profileData);
     updateAcademic(profileData);
+    
+    setupIdeTabs();
 
 })();
