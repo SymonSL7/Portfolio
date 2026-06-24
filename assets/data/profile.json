@@ -1,5 +1,5 @@
 {
-    "name": "Symon S Lima",
+    "name": "Symon Lima",
     "photo": "https://avatars.githubusercontent.com/u/175975678?v=4",
     "job": "Estudante de Desenvolvimento",
     "linkedin": "https://www.linkedin.com/in/symonsilvalima/",
@@ -11,35 +11,47 @@
       "hardSkills": [
         {
           "name": "HTML",
-          "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/html.png"
+          "logo": "assets/data/imgs/html.png"
         },
         {
           "name": "CSS",
-          "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/css.png"
+          "logo": "assets/data/imgs/css.png"
         },
         {
           "name": "JavaScript",
-          "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/js.png"
+          "logo": "assets/data/imgs/js.png"
         },
         {
             "name": "TypeScript",
-            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/typescript.png"
+            "logo": "assets/data/imgs/typescript.png"
         },
         {
             "name": "C#",
-            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/CSharp.png"
+            "logo": "assets/data/imgs/csharp.png"
+        },
+        {
+            "name": ".NET",
+            "logo": "assets/data/imgs/NETBranco.png"
         },
                 {
-            "name": ".NET",
-            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/NETBranco.png"
+            "name": "SQLite",
+            "logo": "assets/data/imgs/sqlite.png"
+        },
+        {
+            "name": "React",
+            "logo": "assets/data/imgs/react.png"
+        },
+        {
+            "name": "Node.js",
+            "logo": "assets/data/imgs/nodejs.png"
         },
         {
             "name": "GitHub",
-            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/github.png"
+            "logo": "assets/data/imgs/github.png"
         },
         {
             "name": "Windows",
-            "logo": "https://raw.githubusercontent.com/SymonSL7/Portfolio/refs/heads/main/assets/data/imgs/windows.png"
+            "logo": "assets/data/imgs/windows.png"
         }
       ],
       "softSkills": [
@@ -173,7 +185,7 @@
       },
       {
         "name": "Vestindo Esperança Repositório (Puc Minas 1º Período)",
-        "url": "https://github.com/SymonSL7/VestindoEsperancaPucMinas1Periodo",
+        "url": "https://github.com/SymonProjetos/VestindoEsperancaPucMinas1Periodo",
         "github": true
       },
       {
@@ -183,12 +195,12 @@
       },
       {
         "name": "Controle de Estoque Full Stack, Angular e Symfony",
-        "url": "https://github.com/SymonSL7/controle-estoque-full-stack",
+        "url": "https://github.com/SymonProjetos/controle-estoque-full-stack",
         "github": true
       },
       {
         "name": "SaberMais (Puc Minas 2º Perído)",
-        "url": "https://github.com/SymonSL7/SaberMais",
+        "url": "https://github.com/SymonProjetos/SaberMais",
         "github": true
       },
       {

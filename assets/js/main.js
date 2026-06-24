@@ -52,11 +52,11 @@ function updatePortfolio(profileData) {
 
     const portfolio = document.getElementById('profile.portfolio');
 
-    portfolio.innerHTML = profileData.portfolio.map(project => {
+    portfolio.innerHTML = [...profileData.portfolio].reverse().map(project => {
         return `
         <li>
             <span ${project.github ? 'class="title github"' : 'title'}>${project.name}</span>
-            <a href="${project.url}" target="_blank" rel="noopener">www.github.com/SymonSL7</a>
+            <a href="${project.url}" target="_blank" rel="noopener">www.github.com/...</a>
         </li>
         `
     }).join('');
@@ -69,7 +69,7 @@ function updateProfessionalExperience(profileData) {
     professionalExperience.innerHTML = profileData.professionalExperience.map(experience => {
 
         let descriptionContent;
-        
+
         if (typeof experience.description === 'object' && experience.description !== null) {
             descriptionContent = Object.entries(experience.description)
                 .map(([key, value]) => `<p>${value}</p>`)
@@ -111,10 +111,10 @@ function updateAcademic(profileData) {
 
         let descriptionContent;
 
-        if(typeof academics.description === 'object' && academics.description !== null){
+        if (typeof academics.description === 'object' && academics.description !== null) {
             descriptionContent = Object.entries(academics.description)
-            .map(([key,value]) => `<p>${value}</p>`)
-            .join('');
+                .map(([key, value]) => `<p>${value}</p>`)
+                .join('');
         } else {
             descriptionContent = `<p>${academics.description || ''}</p>`;
         }
@@ -133,7 +133,7 @@ function updateAcademic(profileData) {
 
 
 (async () => {
-    
+
     const profileData = await fetchProfileData();
     updateProfileInfo(profileData);
     updateSoftSkills(profileData);

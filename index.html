@@ -15,9 +15,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
         rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700;800&display=swap" rel="stylesheet">
 
 
-    <link rel="stylesheet" href="assets/css/acordeon.css">
     <link rel="stylesheet" href="assets/css/course.css">
     <link rel="stylesheet" href="assets/css/academic.css">
     <link rel="stylesheet" href="assets/css/skills.css">
@@ -29,9 +29,9 @@
 </head>
 
 <body>
-    <main class="main">
+    <main class="main bento-container">
 
-        <header class="header">
+        <header class="header card profile-card">
 
             <img src="assets/img/my-photo.png" alt="Foto de Perfil" class="photo" id="profile.photo">
 
@@ -57,12 +57,8 @@
 
         </header>
 
-        <section class="acordeon">
-
-            <button class="trigger" type="button">
-                <h2>Habilidades</h2>
-            </button>
-
+        <section class="card skills-card">
+            <h2 class="card-title">&gt; Habilidades_</h2>
             <div class="content">
 
                 <div class="skills">
@@ -94,12 +90,33 @@
 
         </section>
 
-        <section class="acordeon">
+        <section class="card languages-card">
+            <h2 class="card-title">&gt; Idiomas_</h2>
+            <div class="content">
+                <ul class="languages" id="profile.languages">
+                    <li>Carregando...</li>
+                </ul>
+            </div>
 
-            <button class="trigger" type="button">
-                <h2>Formação Acadêmica</h2>
-            </button>
+        </section>
 
+        <section class="card courses-card">
+            <h2 class="card-title">&gt; Cursos_</h2>
+            <div class="content">
+                <ul class="course" id="profile.courses">
+
+                    <li>
+                        <h3 class="title">Carregando...</h3>
+                        <span class="period">Carregando..</span>
+                    </li>
+
+                </ul>
+            </div>
+
+        </section>
+
+        <section class="card academic-card">
+            <h2 class="card-title">&gt; Formação_Acadêmica_</h2>
             <div class="content">
                 <ul class="academic" id="profile.academic">
 
@@ -116,45 +133,8 @@
 
         </section>
 
-        <section class="acordeon">
-
-            <button class="trigger" type="button">
-                <h2>Cursos</h2>
-            </button>
-
-            <div class="content">
-                <ul class="course" id="profile.courses">
-
-                    <li>
-                        <h3 class="title">Carregando...</h3>
-                        <span class="period">Carregando..</span>
-                    </li>
-
-                </ul>
-            </div>
-
-        </section>
-
-        <section class="acordeon">
-
-            <button class="trigger" type="button">
-                <h2>Idiomas</h2>
-            </button>
-
-            <div class="content">
-                <ul class="languages" id="profile.languages">
-                    <li>Carregando...</li>
-                </ul>
-            </div>
-
-        </section>
-
-        <section class="acordeon">
-
-            <button class="trigger" type="button">
-                <h2>Projetos</h2>
-            </button>
-
+        <section class="card portfolio-card">
+            <h2 class="card-title">&gt; Projetos_</h2>
             <div class="content">
                 <ul class="portfolio" id="profile.portfolio">
 
@@ -164,12 +144,8 @@
         </section>
 
 
-        <section class="acordeon">
-
-            <button class="trigger" type="button">
-                <h2>Experiência Profissional</h2>
-            </button>
-
+        <section class="card experience-card">
+            <h2 class="card-title">&gt; Experiência_Profissional_</h2>
             <div class="content">
                 <ul class="experience" id="profile.professionalExperience">
 
@@ -192,7 +168,7 @@
 
     </main>
 
-    <script src="assets/js/acordeon.js"></script>
+
     <script src="assets/js/api.js"></script>
     <script src="assets/js/main.js"></script>
 </body>

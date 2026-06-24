@@ -1,8 +1,7 @@
-
 .portfolio {
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
+    gap: 1rem;
     width: 100%;
     margin: 0;
     padding: 0;
@@ -12,30 +11,42 @@
 .portfolio li {
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
-    margin: 1rem 0;
+    background: rgba(30, 41, 59, 0.4);
+    border: 1px solid rgba(6, 182, 212, 0.1);
+    border-radius: 8px;
+    padding: 1rem;
+    transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.portfolio li:hover {
+    transform: translateX(4px);
+    border-color: #06B6D4;
 }
 
 .portfolio li .title {
     display: flex;
-    flex-direction: row;
     align-items: center;
-    font-size: 1.25rem;
+    font-size: 1.1rem;
     font-weight: 700;
-    margin: 0;
+    color: #F8FAFC;
     margin-bottom: 0.5rem;
 }
 
 .portfolio li .title.github::before {
     content: "";
-    width: 1rem;
-    height: 1rem;
+    width: 1.25rem;
+    height: 1.25rem;
     display: inline-block;
     background-repeat: no-repeat;
     background-size: contain;
     background-image: url('../img/icons/github.svg');
     margin-right: 0.5rem;
+    filter: invert(1);
 }
 
-
-
+.portfolio li a {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 0.85rem;
+    color: #22D3EE;
+    word-break: break-all;
+}
