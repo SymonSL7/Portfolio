@@ -202,6 +202,11 @@
         "name": "ShopSmart (Puc Minas 3º Perído)",
         "url": "https://github.com/SymonProjetos/ShopSmart",
         "github": true
+      },
+      {
+        "name": "Cora Lingerie (Catálogo Digital / Aplicação Real)",
+        "url": "https://coralingerie.com.br",
+        "github": false
       }
     ],
     "professionalExperience": [
